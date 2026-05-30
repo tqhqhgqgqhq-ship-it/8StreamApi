@@ -1,12 +1,12 @@
 
 ![8-stream-high-resolution-logo-transparent](https://github.com/himanshu8443/HayasakaStream/assets/99420590/813cca3a-a3c3-4f40-8a79-df5b866edf68)
- - Api provides Movies/Series streaming links by IMDB IDs.
+ - Api provides Movies/Series Only Oraganic Trailers of movies
+ - trailers are most commonly Provided in - 
  - Most commonly provided languages - Hindi, English, Tamil, Telugu, Bengali.
 
 # Not Maintained now
 #  Documentation
-## Get media Info
-Provides information file and key which is used to get steram link.
+#.
  
 **Endpoint** - `/api/v1/mediaInfo?id=tt1877830`
 
